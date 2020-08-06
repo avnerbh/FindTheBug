@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Find TheBug</string>
+    <string name="success">success</string>
+    <string name="user_detailes">details</string>
+    <string name="permission_not_granted">permission not granted</string>
+    <string name="permission_was_granted">permission was already granted</string>
+    <string name="failure_permission">failure permission</string>
+</resources>
